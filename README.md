@@ -1,6 +1,6 @@
 # Projeto Conceitual de Banco de Dados – Oficina Mecânica
 
-Este repositório apresenta o **modelo conceitual** de um banco de dados para um **sistema de controle e gerenciamento de execução de ordens de serviço** em uma oficina mecânica.
+Este repositório apresenta o **modelo conceitual** e a implementação de um banco de dados para um **sistema de controle e gerenciamento de execução de ordens de serviço** em uma oficina mecânica.
 
 ---
 
@@ -35,15 +35,14 @@ O projeto tem como meta organizar e gerenciar:
 
 ## 📷 Diagrama
 O diagrama ER completo encontra-se na imagem abaixo:
-<img width="1001" height="1325" alt="Projeto Conceitual BD -Oficina Mecanica" src="https://github.com/user-attachments/assets/4af599bb-3587-4137-8dd0-bc3c24179d83" />
 
+<img width="1001" height="1325" alt="diagrama_oficina" src="https://github.com/user-attachments/assets/a45dcc2f-e800-498e-8b8c-0697f58a17af" />
 
 ---
 
-## 💡 Próximos Passos
-1. Criar o **modelo lógico** para normalização das tabelas.
-2. Desenvolver o **script SQL** para implementação (MySQL, PostgreSQL ou similar).
-3. Alimentar com dados de teste e criar consultas (relatórios de ordens, custos, produtividade).
+## 👨🏻‍💻 Implementação
+
+A implementação do diagrama conceitual está localizado no arquivo [BD_oficina_Mecanica.sql](BD_oficina_Mecanica.sql).
 
 ---
 

@@ -42,7 +42,7 @@ O diagrama ER completo encontra-se na imagem abaixo:
 
 ## 👨🏻‍💻 Implementação
 
-A implementação do diagrama conceitual está localizado no arquivo [BD_oficina_Mecanica.sql](BD_oficina_Mecanica.sql).
+A implementação do diagrama conceitual está localizado no arquivo [BD_oficina_Mecanica.sql](https://github.com/WesleyCalsonari/Projeto_Conceitual_BD-Oficina_Mecanica/blob/main/BD_oficina_Mecanica.sql).
 
 ---
 
